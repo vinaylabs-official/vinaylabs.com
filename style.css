@@ -169,3 +169,9 @@ a.card:hover,.card.course:hover{border-color:rgba(0,184,217,.55);transform:trans
 .card.course h3 a:hover{color:var(--accent)}
 .card.course .card-top{margin-bottom:0}
 .btn-sm{padding:9px 16px;font-size:.85rem}
+
+.logo span{letter-spacing:-.02em}.logo b{color:#1ec8ea;font-weight:700}
+.logo-mark{width:34px;height:34px}
+.hero-art{margin:0;position:relative;border-radius:18px;overflow:hidden;border:1px solid rgba(0,184,217,.35);box-shadow:0 30px 80px rgba(0,0,0,.45),0 0 60px rgba(0,184,217,.12)}
+.hero-art img{display:block;width:100%;height:auto;aspect-ratio:594/600;object-fit:cover}
+.hero-art figcaption{position:absolute;left:0;right:0;bottom:0;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;padding:14px 16px;font-size:.78rem;color:var(--fg-2);background:linear-gradient(0deg,rgba(6,14,28,.92),rgba(6,14,28,0))}
